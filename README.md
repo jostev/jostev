@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jostev
+- 👀 I’m interested in art
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data analysis or virtual environment projects
+- 📫 How to reach me: jon4thansmth@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am into videogames.
